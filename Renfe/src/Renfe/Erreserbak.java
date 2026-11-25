@@ -43,4 +43,9 @@ public class Erreserbak {
     public void setErreserbaData(String erreserbaData) { this.erreserbaData = erreserbaData; }
     public void setBidaiData(String bidaiData) { this.bidaiData = bidaiData; }
     public void setEserlekuak(String[] eserlekuak) { this.eserlekuak = eserlekuak; }
-}
+
+    //METODOAK
+
+
+    }
+

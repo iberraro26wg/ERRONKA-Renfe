@@ -36,4 +36,7 @@ public class Bidaiaria {
     public void setPasahitza(String pasahitza) { this.pasahitza = pasahitza; }
 
     //METODOAK
+    public boolean loginEgin(String erabiltzailea, String pasahitza) {
+        return this.erabiltzailea.equals(erabiltzailea) && this.pasahitza.equals(pasahitza);
+    }
 }
